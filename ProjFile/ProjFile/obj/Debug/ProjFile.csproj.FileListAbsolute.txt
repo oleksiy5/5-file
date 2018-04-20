@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\source\repos\ProjFile\ProjFile\bin\Debug\ProjFile.exe.config
+C:\Users\Oleksiy\source\repos\ProjFile\ProjFile\bin\Debug\ProjFile.exe
+C:\Users\Oleksiy\source\repos\ProjFile\ProjFile\bin\Debug\ProjFile.pdb
+C:\Users\Oleksiy\source\repos\ProjFile\ProjFile\obj\Debug\ProjFile.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\source\repos\ProjFile\ProjFile\obj\Debug\ProjFile.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\source\repos\ProjFile\ProjFile\obj\Debug\ProjFile.exe
+C:\Users\Oleksiy\source\repos\ProjFile\ProjFile\obj\Debug\ProjFile.pdb
